@@ -21,7 +21,7 @@ Lately I also build AI tools that help design and manufacture physical products.
 | Area | Tools |
 | --- | --- |
 | **CAD and rendering** | SolidWorks · Onshape · Rhino · KeyShot · Vizcom · Meshmixer |
-| **Fabrication and testing** | FDM and SLA printing (Bambu Studio) · laser cutting · jigs and fixtures · functional testing |
+| **Fabrication and testing** | FDM and SLA printing · laser cutting · jigs and fixtures · functional testing |
 | **Design** | Industrial design · CMF · concept modelling · 3D scanning · Adobe Creative Cloud |
 | **AI and code** | Claude Code · Cursor · Google Antigravity |
 
